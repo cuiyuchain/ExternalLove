@@ -19,4 +19,4 @@
 
 [小情侣在景区里挂的同心锁，最后都去哪里了？真相令人咋舌|爱情|挂锁_网易订阅 (163.com)](https://www.163.com/dy/article/G560DLMI0531B6OI.html)
 
-[yekai1003/marriage-demo: 基于fisco bcos 区块链的结婚证书系统 (github.com)](
+[yekai1003/marriage-demo: 基于fisco bcos 区块链的结婚证书系统 (github.com)](https://github.com/yekai1003/marriage-demo)
